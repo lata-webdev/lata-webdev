@@ -1,9 +1,7 @@
  <h1 align="center">Hi 👋, I'm Lata</h1>
 <h3 align="center">A Passionate Frontend Developer & Final Year BCA Student at MUJ</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7006D&center=true&vCenter=true&width=435&lines=Learning+Full+Stack+Web+Development;Love+to+Design+%26+Build+Websites;Dreaming+to+be+a+Pro+Dev!+💻" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7006D&center=true&vCenter=true&width=435&lines=Learning+Full+Stack+Web+Development;Love+to+Design+%26+Build+Websites;Dreaming+to+be+a+Pro+Dev!+💻)
 
 ---
 
@@ -38,9 +36,9 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/lata-kumari-72b08b27b/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="youtube.com/channel/UCIEudkelLmu-rta68yfjf5Q" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="[https://www.instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/somethingnew7153?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
