@@ -1,51 +1,107 @@
- <h1 align="center">Hi 👋, I'm Lata</h1>
-<h3 align="center">A Passionate Frontend Developer & Final Year BCA Student at MUJ</h3>
+🌟 Hi, I'm Lata
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7006D&center=true&vCenter=true&width=435&lines=Learning+Full+Stack+Web+Development;Love+to+Design+%26+Build+Websites;Dreaming+to+be+a+Pro+Dev!+💻)
+Frontend Developer | Full-Stack Learner | BCA Graduate
 
----
+✨ I love designing clean user interfaces and building real-world web applications.
 
-### 👩‍💻 About Me
+👩‍💻 About Me
 
-- 🎓 I'm a **BCA Final Year Student at Manipal University Jaipur**
-- 🌱 I’m currently learning **PHP, React & MySQL**
-- 💡 My goal is to become a **Full-Stack Web Developer**
-- 🌐 I also have skills in **MS Office, Photoshop, Core Python, Java, C/C++**, and more.
-- 🎯 Focused on building beautiful frontend UIs and practical backend logic
+🎓 BCA Graduate from Manipal University Jaipur
 
----
+🌱 Learning React.js, Advanced PHP, and MySQL
 
-### 🛠️ Technologies & Tools
+🎯 Aiming to become a Full-Stack Web Developer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,react,mysql,python,java,cpp,c,vscode,github,git,photoshop" />
-</p>
+💻 Built 20+ frontend & full-stack projects
 
----
+❤️ Passionate about clean UI, problem-solving & practical backend logic
 
-### 📈 GitHub Stats
+🚀 Projects I’ve Built
+🔐 1. Quiz Web App (HTML, CSS, JS, PHP, MySQL)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lata-webdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lata-webdev&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lata-webdev&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+User Signup/Login Authentication
 
----
+Admin Panel for Adding Questions
 
-### 🔗 Connect With Me
+Score Storing in Database
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lata-kumari-72b08b27b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/channel/UCIEudkelLmu-rta68yfjf5Q" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/somethingnew7153?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-Discord: olivia_oggy_
+Multi-Course Quiz (C++, Java, JS, React, HTML, PHP etc.)
 
----
+🏨 2. Online Hotel Booking System (HTML, CSS, JS, PHP, MySQL)
 
-### 💖 Fun Fact
+User Login/Registration
 
-```txt
-✨ My dev journey is just starting, and I'm loving every bit of it!
+Room Booking System
 
+Admin Panel for Room Management
+
+Responsive UI
+
+🛒 3. Amazon Clone (Frontend Only)
+
+Built using HTML + CSS
+
+Fully responsive homepage
+
+UI components like navbar, product cards, cart section
+
+🍔 4. Food Order Website (Frontend Only)
+
+HTML + CSS
+
+Beautiful UI with sections for menu, banner, footer
+
+🧮 5. Calculator App (HTML, CSS, JS)
+
+Clean design
+
+Working calculations using JavaScript
+
+🌤️ 6. Weather App (API + JS)
+
+Real-time weather fetch
+
+City search feature
+
+📝 7. To-Do List App (HTML, CSS, JS)
+
+Add, delete, and store tasks
+
+LocalStorage enabled
+
+💸 8. Expense Tracker
+
+Add daily expenses
+
+Auto balance calculation
+
+Clean interface
+
+✨ 9. UI Projects (HTML + CSS Only)
+
+Login/Signup UI
+
+Landing Pages
+
+Portfolio Layouts
+
+Many mini frontend components
+
+🔗 More projects are regularly uploaded on my GitHub & LinkedIn.
+
+🛠️ Tech Stack
+
+Frontend:
+HTML • CSS • JavaScript • Tailwind CSS • React (Learning)
+
+Backend:
+PHP • MySQL
+
+Tools & Others:
+Git • GitHub • VS Code • Photoshop • Java • C/C++
+
+📫 Connect With Me
+
+GitHub: lata webdev
+LinkedIn: https://www.linkedin.com/in/lata-kumari-72b08b27b/
+Email: lata.pca@gmail.com
