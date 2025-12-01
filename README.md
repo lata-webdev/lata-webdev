@@ -9,7 +9,7 @@ I love building clean UIs and practical web apps.
 ## 🚀 Skills
 - **Frontend:** HTML, CSS, JavaScript, React (Learning)
 - **Backend:** PHP, MySQL
-- **Other:** Java, Python, C/C++, Git, GitHub, VS Code, Photoshop
+- **Other:** Java, C/C++, Git, GitHub, VS Code
 
 ---
 
@@ -27,12 +27,12 @@ I love building clean UIs and practical web apps.
 ---
 
 ## 🛠️ Tools I Use
-Git • GitHub • VS Code • Chrome DevTools • Photoshop
+Git • GitHub • VS Code • Chrome DevTools 
 
 ---
 
 ## 📫 Connect
 **GitHub:** lata web-dev
 **LinkedIn:** [your-link  ](https://www.linkedin.com/in/lata-kumari-72b08b27b/)
-**Email:** your-email
+**Email:** lata-webdev
 
