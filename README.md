@@ -1,9 +1,38 @@
-🌟 Hi, I'm Lata
+# 👋 Hi, I'm Lata
 
-Frontend Developer | Full-Stack Learner | BCA Graduate
+💻 Frontend Developer | 🎓 BCA Graduate | 🌱 Learning Full-Stack
 
-📫 Connect With Me
+I love building clean UIs and practical web apps.
 
-GitHub: lata webdev
-LinkedIn: https://www.linkedin.com/in/lata-kumari-72b08b27b/
-Email: lata.pca@gmail.com
+---
+
+## 🚀 Skills
+- **Frontend:** HTML, CSS, JavaScript, React (Learning)
+- **Backend:** PHP, MySQL
+- **Other:** Java, Python, C/C++, Git, GitHub, VS Code, Photoshop
+
+---
+
+## 📂 Featured Projects
+- 🔐 **Quiz App** – HTML, CSS, JS, PHP, MySQL  
+- 🏨 **Hotel Booking System** – PHP + MySQL  
+- 🛒 **Amazon Clone** – HTML + CSS  
+- 🍔 **Food Order UI** – HTML + CSS  
+- 🧮 **Calculator** – HTML, CSS, JS  
+- 🌤️ **Weather App** – JavaScript API  
+- 📘 **To-Do App** – HTML, CSS, JS  
+- 💸 **Expense Tracker** – JavaScript  
+- ✨ Many small UI projects (landing pages, forms, layouts)
+
+---
+
+## 🛠️ Tools I Use
+Git • GitHub • VS Code • Chrome DevTools • Photoshop
+
+---
+
+## 📫 Connect
+**GitHub:** lata web-dev
+**LinkedIn:** [your-link  ](https://www.linkedin.com/in/lata-kumari-72b08b27b/)
+**Email:** your-email
+
