@@ -34,5 +34,5 @@ Git • GitHub • VS Code • Chrome DevTools
 ## 📫 Connect
 **GitHub:** lata web-dev
 **LinkedIn:** [your-link  ](https://www.linkedin.com/in/lata-kumari-72b08b27b/)
-**Email:** lata-webdev
+**Email:** lata.pca@gmail.com
 
