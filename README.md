@@ -6,23 +6,24 @@ I love building clean UIs and practical web apps.
 
 ---
 
-## 🚀 Skills
+## Skills
 - **Frontend:** HTML, CSS, JavaScript, React (Learning)
 - **Backend:** PHP, MySQL
-- **Other:** Java, C/C++, Git, GitHub, VS Code
+- **Other:** Java, C/C++, Git, GitHub, VS Code, msoffice etc.
 
 ---
 
 ## 📂 Featured Projects
-- 🔐 **Quiz App** – HTML, CSS, JS, PHP, MySQL  
-- 🏨 **Hotel Booking System** – PHP + MySQL  
-- 🛒 **Amazon Clone** – HTML + CSS  
-- 🍔 **Food Order UI** – HTML + CSS  
-- 🧮 **Calculator** – HTML, CSS, JS  
-- 🌤️ **Weather App** – JavaScript API  
-- 📘 **To-Do App** – HTML, CSS, JS  
-- 💸 **Expense Tracker** – JavaScript  
-- ✨ Many small UI projects (landing pages, forms, layouts)
+- **MediCare** – Pharmacy Management System
+- **Quiz App** – HTML, CSS, JS, PHP, MySQL  
+- **Hotel Booking System** – PHP + MySQL  
+- **Amazon Clone** – HTML + CSS  
+- **Food Order UI** – HTML + CSS  
+- **Calculator** – HTML, CSS, JS  
+- **Weather App** – JavaScript API  
+- **To-Do App** – HTML, CSS, JS  
+- **Expense Tracker** – JavaScript  
+- Many small UI projects (landing pages, forms, layouts)
 
 ---
 
