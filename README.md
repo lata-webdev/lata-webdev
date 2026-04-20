@@ -14,7 +14,7 @@ I love building clean UIs and practical web apps.
 ---
 
 ## 📂 Featured Projects
-- **MediCare** – Pharmacy Management System
+- **MediCare** – Pharmacy Management System - HTML, CSS, JS & CHARTJS, PHP, MYSQL, C
 - **Quiz App** – HTML, CSS, JS, PHP, MySQL  
 - **Hotel Booking System** – PHP + MySQL  
 - **Amazon Clone** – HTML + CSS  
